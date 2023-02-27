@@ -1,8 +1,8 @@
-### Hi everyone(●'◡'●)
+### Hi everyone, I'm **Olga** (●'◡'●)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+OlgaBuLL's+Github+Profile..)](https://git.io/typing-svg)
 
-I'm **Olga** and I'm russian **Frontend Developer**👩🏽‍💻, currently living in 📍Toronto, Canada 
+I'm a **Frontend Developer**👩🏽‍💻, currently living in 📍Toronto, Canada 
 
 - ⏳🌱 Learning: React
 - 🥰 Love animals
