@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+OlgaBuLL's+Github+Profile..)](https://git.io/typing-svg)
 
 ### About me
-I'm a **Frontend Developer**👩🏽‍💻, currently living in 📍Toronto, Canada 
+I'm a **Frontend Developer**👩🏽‍💻, currently living in 📍Belgrade, Serbia 
 
 ⏳🌱 Learning: React    
 🥰 Love animals   
