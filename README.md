@@ -1,13 +1,13 @@
 # Hi everyone, I'm Olga (●'◡'●)
 #### Frontend Developer 👩🏻‍💻 currently living in 📍Belgrade, Serbia 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+OlgaBuLL's+Github+Profile..)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+OlgaBuLL's+Github+Profile...)](https://git.io/typing-svg)
 
 #### About me
 🌱 Learning: React, Vue    
 🥰 Love animals   
 🏋🏻‍♀️ Take up Crossfit  
 
-## Stack
+## 🛠 TECH STACK
 #### Structure:
 
 <table>
@@ -142,6 +142,11 @@
 
 <table>
   <tr>
+    <td align="center" width="82">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=vscode" />
+      </a><br>VSCode
+     </td>
     <td align="center" width="82">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=figma" />
