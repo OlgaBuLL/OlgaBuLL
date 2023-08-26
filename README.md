@@ -1,43 +1,167 @@
-### Hi everyone, I'm **Olga** (●'◡'●)
-
+# Hi everyone, I'm Olga (●'◡'●)
+#### Frontend Developer 👩🏻‍💻 currently living in 📍Belgrade, Serbia 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+OlgaBuLL's+Github+Profile..)](https://git.io/typing-svg)
 
-### About me
-I'm a **Frontend Developer**👩🏽‍💻, currently living in 📍Belgrade, Serbia 
-
-⏳🌱 Learning: React    
+#### About me
+⏳🌱 Learning: React, Vue    
 🥰 Love animals   
-🏋🏻‍♀️ Take up Crossfit    
+🏋🏻‍♀️ Take up Crossfit  
 
-### ⌚ Want to learn in the nearest future:
-- Redux
-- TypeScript
-- Vuejs 
+## Stack
+#### Structure:
 
-### 📫 How to reach me:
-- <a href="https://www.linkedin.com/in/olga-bulgakova-014254243/" target="blank">LinkedIn</a>
-- <a href="https://t.me/bio_ol23" target="blank">Telegram</a>
-- <a href="oska43@mail.ru" target="blank">E-mail</a>
+<table>
+  <tr>
+    <td align="center" width="82">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html" />
+      </a><br>HTML5
+     </td>
+    <td align="center" width="82">
+      <img src='https://github.com/OlgaBuLL/OlgaBuLL/assets/108359930/1789f533-4739-47c1-b397-0fcb6af8db49' alt='BEM' width="50" />
+      <br>BEM
+     </td>
+  </tr>
+</table>
 
-### Technologies:
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-    <img src="https://user-images.githubusercontent.com/108359930/221673250-00e9fda0-73c7-4e57-8911-e452fa852d6c.png" title="SASS" **alt="SASS" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/108359930/221673475-270f0e21-5454-4eb7-9d1b-2340de1bec0b.png" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+#### Styles:
 
-<!--
-**OlgaBuLL/OlgaBuLL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+  <tr>
+    <td align="center" width="82">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=css" />
+      </a><br>CSS3
+     </td>
+    <td align="center" width="82">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=sass" />
+      </a><br>SASS
+     </td>
+    <td align="center" width="82">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=bootstrap" />
+      </a><br>Bootstrap
+     </td>
+    <td align="center" width="82">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=tailwind" />
+      </a><br>Tailwind
+     </td>
+  </tr>
+</table>
 
-Here are some ideas to get you started:
+#### Hard:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+<table>
+  <tr>
+    <td align="center" width="82">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js" />
+      </a><br>JS
+     </td>
+    <td align="center" width="82">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=vue" />
+      </a><br>Vue
+     </td>
+    <td align="center" width="82">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=nuxt" />
+      </a><br>Nuxt
+     </td>
+    <td align="center" width="82">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react" />
+      </a><br>React
+     </td>
+    <td align="center" width="82">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=redux" />
+      </a><br>Redux
+     </td>
+  </tr>
+</table>
 
--->
+#### Libs:
+
+<table>  
+  <tr>
+    <td align="center" width="82">
+      <img src='https://github.com/OlgaBuLL/OlgaBuLL/assets/108359930/58805095-0588-44a2-9fc3-08050a0c23b1' alt='NPM' />
+      <br>NPM
+     </td>
+    <td align="center" width="82">
+      <img src='https://github.com/OlgaBuLL/OlgaBuLL/assets/108359930/2cec7e00-7deb-4db0-88c0-5aa3e517787c' alt='GSAP' width="50" />
+      <br>GSAP
+     </td>
+    <td align="center" width="82">
+      <img src='https://github.com/OlgaBuLL/OlgaBuLL/assets/108359930/a5798814-04d2-423b-be7a-55f9ad78c5a8' alt='Framer' width="50" />
+      <br>Framer
+     </td>
+    <td align="center" width="82">
+      <img src='https://github.com/OlgaBuLL/OlgaBuLL/assets/108359930/73add1aa-168b-4430-86d7-f7a697cf640c' alt='Swiper' width="50" />
+      <br>Swiper
+     </td>
+    <td align="center" width="82">
+      <img src='https://github.com/OlgaBuLL/OlgaBuLL/assets/108359930/bc50dfc4-5418-42cb-9f8c-a8bba0eefbfa' alt='Anime.js' width="50" />
+      <br>Anime.js
+     </td>
+    <td align="center" width="82">
+      <img src='https://github.com/OlgaBuLL/OlgaBuLL/assets/108359930/963882f5-c95a-417d-ac52-ad74bb04295c' alt='Animate.css' width="50" />
+      <br>Animate
+     </td>
+    <td align="center" width="82">
+      <img src='https://github.com/OlgaBuLL/OlgaBuLL/assets/108359930/0420ed98-4984-4372-8b42-a7002b834250' alt='Chart.js' width="50" />
+      <br>Chart.js
+     </td>
+     <td align="center" width="82">
+      <img src='https://github.com/OlgaBuLL/OlgaBuLL/assets/108359930/bbaaa8e1-1e62-4078-bc6d-9b8f1288da9f' alt='Moment.js' width="50" />
+      <br>Moment.js
+     </td>
+  </tr>
+</table>
+
+#### Hostings:
+
+  <table>
+  <tr>
+    <td align="center" width="82">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=netlify" />
+      </a><br>Netlify
+     </td>
+    <td align="center" width="82">
+      <img src='https://github.com/OlgaBuLL/OlgaBuLL/assets/108359930/4e3d0368-6e0a-45c4-8d74-f16b52a9b0ad' alt='Glitch' width="50" />
+      <br>Glitch
+     </td>
+  </tr>
+</table>
+
+
+## 📫 How to reach me:
+
+<table  align="center">
+  <tr>
+    <td align="center" width="82">
+      <a href="https://github.com/OlgaBuLL">
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' width="50" />
+      </a><br>GitHub
+     </td>
+    <td align="center" width="82">
+      <a href="https://t.me/bio_ol23">
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' width="50" />
+      </a><br>Telegram
+     </td>
+    <td align="center" width="82">
+      <a href="mailto:oska43@mail.ru">
+       <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg' alt='E-mail' width="50" />
+      </a><br>E-mail
+     </td>
+    <td align="center" width="82">
+      <a href="https://www.linkedin.com/in/olga-bulgakova-014254243/">
+       <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' width="50" />
+      </a><br>LinkedIn
+     </td>
+  </tr>
+</table>
