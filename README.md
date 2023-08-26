@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+OlgaBuLL's+Github+Profile..)](https://git.io/typing-svg)
 
 #### About me
-⏳🌱 Learning: React, Vue    
+🌱 Learning: React, Vue    
 🥰 Love animals   
 🏋🏻‍♀️ Take up Crossfit  
 
@@ -138,6 +138,42 @@
   </tr>
 </table>
 
+#### Some more:
+
+<table>
+  <tr>
+    <td align="center" width="82">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=figma" />
+      </a><br>Figma
+     </td>
+    <td align="center" width="82">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=fastapi" />
+      </a><br>API
+     </td>
+    <td align="center" width="82">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=postman" />
+      </a><br>Postman
+     </td>
+    <td align="center" width="82">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=webpack" />
+      </a><br>Webpack
+     </td>
+    <td align="center" width="82">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git" />
+      </a><br>Git
+     </td>
+     <td align="center" width="82">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mysql" />
+      </a><br>MySQL
+     </td>
+  </tr>
+</table>
 
 ## 📫 How to reach me:
 
