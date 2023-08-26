@@ -200,8 +200,8 @@
 ## 📈 GITHUB STATS
 <br>
 <div align="center">
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=OlgaBuLL&langs_count=8&layout=compact&theme=omni&hide_border=true&border_radius=15' alt='Top Langs' />
-  <img src='https://github-readme-stats.vercel.app/api?username=OlgaBuLL&show_icons=true&theme=omni&hide_border=true&border_radius=15' alt='OlgaBull's GitHub stats' />
+  <img height="170" src='https://github-readme-stats.vercel.app/api/top-langs/?username=OlgaBuLL&langs_count=8&layout=compact&theme=omni&hide_border=true&border_radius=15' alt='Top Langs' />
+  <img height="170" src='https://github-readme-stats.vercel.app/api?username=OlgaBuLL&show_icons=true&theme=omni&hide_border=true&border_radius=15' alt='OlgaBull's GitHub stats' />
   <br>
   <img src='https://streak-stats.demolab.com?user=OlgaBull&theme=sunset-gradient&hide_border=true&border_radius=15' alt='GitHub Streak' />
 </div>
