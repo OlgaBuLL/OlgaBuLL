@@ -1,11 +1,17 @@
-# Hi everyone, I'm Olga (●'◡'●)
-#### Frontend Developer 👩🏻‍💻 currently living in 📍Belgrade, Serbia 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+OlgaBuLL's+Github+Profile...)](https://git.io/typing-svg)
+<h1 align="center">Hi everyone, I'm Olga (●'◡'●)</h1>
+<h4 align="center">Frontend Developer 👩🏻‍💻 currently living in 📍Belgrade, Serbia</h4>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+OlgaBuLL's+Github+Profile❣"/>
+  </a>
+<p/>
 
 #### About me
 🌱 Learning: React, Vue    
 🥰 Love animals   
 🏋🏻‍♀️ Take up Crossfit  
+
+<br>
 
 ## 🛠 TECH STACK
 #### Structure:
@@ -149,6 +155,11 @@
      </td>
     <td align="center" width="82">
       <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=powershell" />
+      </a><br>Powershell
+     </td>
+    <td align="center" width="82">
+      <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=figma" />
       </a><br>Figma
      </td>
@@ -177,9 +188,25 @@
         <img src="https://skillicons.dev/icons?i=mysql" />
       </a><br>MySQL
      </td>
+    <td align="center" width="82">
+      <img src='https://github.com/OlgaBuLL/OlgaBuLL/assets/108359930/f35b3711-e55c-498c-89ef-0737af312601' alt='Trello' width="50" />
+      <br>Trello
+     </td>
   </tr>
 </table>
 
+<br>
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="200" src='https://github-readme-stats.vercel.app/api?username=OlgaBuLL&show_icons=true&theme=omni&border_radius=15' alt='OlgaBull's GitHub stats' />
+  <img height="200" src='https://github-readme-stats.vercel.app/api/top-langs/?username=OlgaBuLL&langs_count=8&layout=compact&theme=omni&border_radius=15' alt='Top Langs' />
+  <br>
+  <img src='https://streak-stats.demolab.com?user=OlgaBull&theme=sunset-gradient&hide_border=true&border_radius=15' alt='GitHub Streak' />
+ 
+<p/>
+  
 ## 📫 How to reach me:
 
 <table  align="center">
