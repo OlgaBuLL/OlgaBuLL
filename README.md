@@ -241,12 +241,9 @@
 
 <div align="center"><br>
 <a href="https://github.com/OlgaBuLL/OlgaBuLL">
-    <img src="https://komarev.com/ghpvc/?username=OlgaBuLL" alt="page views" />
+    <img src="https://komarev.com/ghpvc/?username=OlgaBuLL&color=red" alt="Page views" />
   </a>
  <a href="https://github.com/OlgaBuLL?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/OlgaBull?color=green&logo=github">
-  </a>
-  <a href="https://github.com/OlgaBuLL/awesome-github-profile-readme">
-    <img alt="Awesome" src="https://awesome.re/badge-flat2.svg">
+    <img src="https://img.shields.io/github/followers/OlgaBull?color=pink&logo=github" alt="GitHub followers">
   </a>
 </div>
