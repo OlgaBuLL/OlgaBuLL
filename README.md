@@ -197,19 +197,20 @@
 
 <br>
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="200" src='https://github-readme-stats.vercel.app/api?username=OlgaBuLL&show_icons=true&theme=omni&border_radius=15' alt='OlgaBull's GitHub stats' />
-  <img height="200" src='https://github-readme-stats.vercel.app/api/top-langs/?username=OlgaBuLL&langs_count=8&layout=compact&theme=omni&border_radius=15' alt='Top Langs' />
+## 📈 GITHUB STATS
+<br>
+<div align="center">
+  <img height="200" src='https://github-readme-stats.vercel.app/api?username=OlgaBuLL&show_icons=true&theme=omni&hide_border=true&border_radius=15' alt='OlgaBull's GitHub stats' />
+  <img height="200" src='https://github-readme-stats.vercel.app/api/top-langs/?username=OlgaBuLL&langs_count=8&layout=compact&theme=omni&hide_border=true&border_radius=15' alt='Top Langs' />
   <br>
   <img src='https://streak-stats.demolab.com?user=OlgaBull&theme=sunset-gradient&hide_border=true&border_radius=15' alt='GitHub Streak' />
- 
-<p/>
-  
-## 📫 How to reach me:
+</div>
 
-<table  align="center">
+<br>
+
+## 📫 How to reach me:
+<br>
+<table>
   <tr>
     <td align="center" width="82">
       <a href="https://github.com/OlgaBuLL">
@@ -233,3 +234,19 @@
      </td>
   </tr>
 </table>
+
+<h3 align="center">Thanks for visiting!🦔</h3>
+
+</br>
+
+<div align="center"><br>
+<a href="https://github.com/OlgaBuLL/OlgaBuLL">
+    <img src="https://komarev.com/ghpvc/?username=OlgaBuLL" alt="page views" />
+  </a>
+ <a href="https://github.com/OlgaBuLL?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/OlgaBull?color=green&logo=github">
+  </a>
+  <a href="https://github.com/OlgaBuLL/awesome-github-profile-readme">
+    <img alt="Awesome" src="https://awesome.re/badge-flat2.svg">
+  </a>
+</div>
