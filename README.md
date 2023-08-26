@@ -208,9 +208,9 @@
 
 <br>
 
-## 📫 How to reach me:
+<h2 align="center">📫 How to reach me:</h2> 
 <br>
-<table>
+<table align="center">
   <tr>
     <td align="center" width="82">
       <a href="https://github.com/OlgaBuLL">
@@ -234,6 +234,9 @@
      </td>
   </tr>
 </table>
+
+</br>
+</br>
 
 <h3 align="center">Thanks for visiting!🦔</h3>
 
