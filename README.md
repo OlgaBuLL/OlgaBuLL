@@ -2,7 +2,7 @@
 <h4 align="center">Frontend Developer 👩🏻‍💻 currently living in 📍Belgrade, Serbia</h4>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&pause=2000&color=FF7BC9&background=FC40FF00&vCenter=true&width=500&lines=Welcome+To+OlgaBuLL's+Github+Profile%E2%9D%A3"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&pause=2000&color=FF7BC9&vCenter=true&width=500&lines=Welcome+To+OlgaBuLL's+Github+Profile%E2%9D%A3"/>
   </a>
 <p/>
 
