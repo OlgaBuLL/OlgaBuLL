@@ -2,13 +2,13 @@
 <h4 align="center">Frontend Developer 👩🏻‍💻 currently living in 📍Belgrade, Serbia</h4>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+OlgaBuLL's+Github+Profile❣"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&pause=2000&color=FF7BC9&background=FC40FF00&vCenter=true&width=500&lines=Welcome+To+OlgaBuLL's+Github+Profile%E2%9D%A3"/>
   </a>
 <p/>
 
 <p align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&hide_border=true&border_radius=15" alt="Readme Quotes"/>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&hide_border=true&border_radius=15" alt="Readme Quotes"/>
   </a>
 <p/>
 
