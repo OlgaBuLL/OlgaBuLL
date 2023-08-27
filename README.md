@@ -6,26 +6,28 @@
   </a>
 <p/>
 
-#### About me
-🌱 Learning: React, Vue    
-🥰 Love animals   
-🏋🏻‍♀️ Take up Crossfit  
+<p align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&hide_border=true&border_radius=15" alt="Readme Quotes"/>
+  </a>
+<p/>
 
 <br>
 
 ## 🛠 TECH STACK
 #### Structure:
 
-<table>
+<table >
   <tr>
-    <td align="center" width="82">
+    <td align="center" width="82" height="82">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=html" />
-      </a><br>HTML5
+      </a>
+      <sup>HTML5</sup>
      </td>
-    <td align="center" width="82">
+    <td align="center" width="82" height="82">
       <img src='https://github.com/OlgaBuLL/OlgaBuLL/assets/108359930/1789f533-4739-47c1-b397-0fcb6af8db49' alt='BEM' width="50" />
-      <br>BEM
+      <sup>BEM</sup>
      </td>
   </tr>
 </table>
@@ -37,22 +39,26 @@
     <td align="center" width="82">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=css" />
-      </a><br>CSS3
+      </a>
+       <sup>CSS3</sup>
      </td>
     <td align="center" width="82">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=sass" />
-      </a><br>SASS
+      </a>
+      <sup>SASS</sup>
      </td>
     <td align="center" width="82">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=bootstrap" />
-      </a><br>Bootstrap
+      </a>
+      <sup>Bootstrap</sup>
      </td>
     <td align="center" width="82">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=tailwind" />
-      </a><br>Tailwind
+      </a>
+      <sup>Tailwind</sup>
      </td>
   </tr>
 </table>
@@ -64,27 +70,32 @@
     <td align="center" width="82">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=js" />
-      </a><br>JS
+      </a>
+      <sup>JS</sup>  
      </td>
     <td align="center" width="82">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=vue" />
-      </a><br>Vue
+      </a>
+      <sup>Vue</sup>
      </td>
     <td align="center" width="82">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=nuxt" />
-      </a><br>Nuxt
+      </a>
+      <sup>Nuxt</sup>
      </td>
     <td align="center" width="82">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=react" />
-      </a><br>React
+      </a>
+      <sup>React</sup>
      </td>
     <td align="center" width="82">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=redux" />
-      </a><br>Redux
+      </a>
+      <sup>Redux</sup>
      </td>
   </tr>
 </table>
@@ -95,35 +106,35 @@
   <tr>
     <td align="center" width="82">
       <img src='https://github.com/OlgaBuLL/OlgaBuLL/assets/108359930/58805095-0588-44a2-9fc3-08050a0c23b1' alt='NPM' />
-      <br>NPM
+      <sup>NPM</sup>
      </td>
     <td align="center" width="82">
       <img src='https://github.com/OlgaBuLL/OlgaBuLL/assets/108359930/2cec7e00-7deb-4db0-88c0-5aa3e517787c' alt='GSAP' width="50" />
-      <br>GSAP
+      <sup>GSAP</sup>
      </td>
     <td align="center" width="82">
       <img src='https://github.com/OlgaBuLL/OlgaBuLL/assets/108359930/a5798814-04d2-423b-be7a-55f9ad78c5a8' alt='Framer' width="50" />
-      <br>Framer
+      <sup>Framer</sup>
      </td>
     <td align="center" width="82">
       <img src='https://github.com/OlgaBuLL/OlgaBuLL/assets/108359930/73add1aa-168b-4430-86d7-f7a697cf640c' alt='Swiper' width="50" />
-      <br>Swiper
+      <sup>Swiper</sup>
      </td>
     <td align="center" width="82">
       <img src='https://github.com/OlgaBuLL/OlgaBuLL/assets/108359930/bc50dfc4-5418-42cb-9f8c-a8bba0eefbfa' alt='Anime.js' width="50" />
-      <br>Anime.js
+      <sup>Anime.js</sup>
      </td>
     <td align="center" width="82">
       <img src='https://github.com/OlgaBuLL/OlgaBuLL/assets/108359930/963882f5-c95a-417d-ac52-ad74bb04295c' alt='Animate.css' width="50" />
-      <br>Animate
+      <sup>Animate</sup>
      </td>
     <td align="center" width="82">
       <img src='https://github.com/OlgaBuLL/OlgaBuLL/assets/108359930/0420ed98-4984-4372-8b42-a7002b834250' alt='Chart.js' width="50" />
-      <br>Chart.js
+      <sup>Chart.js</sup>
      </td>
      <td align="center" width="82">
       <img src='https://github.com/OlgaBuLL/OlgaBuLL/assets/108359930/bbaaa8e1-1e62-4078-bc6d-9b8f1288da9f' alt='Moment.js' width="50" />
-      <br>Moment.js
+      <sup>Moment.js</sup>
      </td>
   </tr>
 </table>
@@ -135,11 +146,12 @@
     <td align="center" width="82">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=netlify" />
-      </a><br>Netlify
+      </a>
+      <sup>Netlify</sup>
      </td>
     <td align="center" width="82">
-      <img src='https://github.com/OlgaBuLL/OlgaBuLL/assets/108359930/4e3d0368-6e0a-45c4-8d74-f16b52a9b0ad' alt='Glitch' width="50" />
-      <br>Glitch
+      <img src='https://github.com/OlgaBuLL/OlgaBuLL/assets/108359930/4e3d0368-6e0a-45c4-8d74-f16b52a9b0ad' alt='Glitch' width="52" />
+      <sup>Glitch</sup>
      </td>
   </tr>
 </table>
@@ -151,46 +163,54 @@
     <td align="center" width="82">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=vscode" />
-      </a><br>VSCode
+      </a>
+      <sup>VSCode</sup>
      </td>
     <td align="center" width="82">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=powershell" />
-      </a><br>Powershell
+      </a>
+      <sup>Powershell</sup>
      </td>
     <td align="center" width="82">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=figma" />
-      </a><br>Figma
+      </a>
+      <sup>Figma</sup>
      </td>
     <td align="center" width="82">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=fastapi" />
-      </a><br>API
+      </a>
+      <sup>API</sup>
      </td>
     <td align="center" width="82">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=postman" />
-      </a><br>Postman
+      </a>
+      <sup>Postman</sup>
      </td>
     <td align="center" width="82">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=webpack" />
-      </a><br>Webpack
+      </a>
+      <sup>Webpack</sup>
      </td>
     <td align="center" width="82">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=git" />
-      </a><br>Git
+      </a>
+      <sup>Git</sup>
      </td>
      <td align="center" width="82">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=mysql" />
-      </a><br>MySQL
+      </a>
+       <sup>MySQL</sup>
      </td>
     <td align="center" width="82">
       <img src='https://github.com/OlgaBuLL/OlgaBuLL/assets/108359930/f35b3711-e55c-498c-89ef-0737af312601' alt='Trello' width="50" />
-      <br>Trello
+      <sup>Trello</sup>
      </td>
   </tr>
 </table>
