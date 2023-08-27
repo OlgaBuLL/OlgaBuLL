@@ -19,13 +19,13 @@
 
 <table >
   <tr>
-    <td align="center" width="82" height="82">
+    <td align="center" width="82" height="82" style="padding: 7px 12px 0px">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=html" />
       </a>
       <sup>HTML5</sup>
      </td>
-    <td align="center" width="82" height="82">
+    <td align="center" width="82" height="82" style="padding: 7px 12px 0px">
       <img src='https://github.com/OlgaBuLL/OlgaBuLL/assets/108359930/1789f533-4739-47c1-b397-0fcb6af8db49' alt='BEM' width="50" />
       <sup>BEM</sup>
      </td>
@@ -150,7 +150,7 @@
       <sup>Netlify</sup>
      </td>
     <td align="center" width="82">
-      <img src='https://github.com/OlgaBuLL/OlgaBuLL/assets/108359930/4e3d0368-6e0a-45c4-8d74-f16b52a9b0ad' alt='Glitch' width="52" />
+      <img src='https://github.com/OlgaBuLL/OlgaBuLL/assets/108359930/4e3d0368-6e0a-45c4-8d74-f16b52a9b0ad' alt='Glitch' width="50" />
       <sup>Glitch</sup>
      </td>
   </tr>
