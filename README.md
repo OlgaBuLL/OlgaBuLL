@@ -26,6 +26,12 @@
       <sup>HTML5</sup>
      </td>
     <td align="center" width="82" height="82" style="padding: 7px 12px 0px">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=pug" />
+      </a>
+      <sup>PUG</sup>
+     </td>
+    <td align="center" width="82" height="82" style="padding: 7px 12px 0px">
       <img src='https://github.com/OlgaBuLL/OlgaBuLL/assets/108359930/1789f533-4739-47c1-b397-0fcb6af8db49' alt='BEM' width="50" />
       <sup>BEM</sup>
      </td>
