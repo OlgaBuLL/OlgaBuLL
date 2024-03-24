@@ -127,8 +127,10 @@
 <table>  
   <tr>
     <td align="center" width="82">
-      <img src='https://github.com/OlgaBuLL/OlgaBuLL/assets/108359930/58805095-0588-44a2-9fc3-08050a0c23b1' alt='NPM' />
-      <sup>NPM</sup>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=npm" />
+      </a>
+       <sup>NPM</sup>
      </td>
     <td align="center" width="82">
       <img src='https://github.com/OlgaBuLL/OlgaBuLL/assets/108359930/2cec7e00-7deb-4db0-88c0-5aa3e517787c' alt='GSAP' width="50" />
@@ -235,12 +237,6 @@
         <img src="https://skillicons.dev/icons?i=mysql" />
       </a>
        <sup>MySQL</sup>
-     </td>
-       <td align="center" width="82">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=npm" />
-      </a>
-       <sup>NPM</sup>
      </td>
     <td align="center" width="82">
       <img src='https://github.com/OlgaBuLL/OlgaBuLL/assets/108359930/f35b3711-e55c-498c-89ef-0737af312601' alt='Trello' width="50" />
