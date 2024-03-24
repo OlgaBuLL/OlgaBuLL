@@ -97,6 +97,12 @@
      </td>
     <td align="center" width="82">
       <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=pinia" />
+      </a>
+      <sup>Pinia</sup>
+     </td>
+    <td align="center" width="82">
+      <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=react" />
       </a>
       <sup>React</sup>
