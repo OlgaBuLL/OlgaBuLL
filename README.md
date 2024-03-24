@@ -107,6 +107,12 @@
       </a>
       <sup>React</sup>
      </td>
+        <td align="center" width="82">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=nextjs" />
+      </a>
+      <sup>Next</sup>
+     </td>
     <td align="center" width="82">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=redux" />
@@ -206,6 +212,12 @@
       </a>
       <sup>Postman</sup>
      </td>
+     <td align="center" width="82">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=devto" />
+      </a>
+      <sup>DEVTools</sup>
+     </td>
     <td align="center" width="82">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=webpack" />
@@ -223,6 +235,12 @@
         <img src="https://skillicons.dev/icons?i=mysql" />
       </a>
        <sup>MySQL</sup>
+     </td>
+       <td align="center" width="82">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=npm" />
+      </a>
+       <sup>NPM</sup>
      </td>
     <td align="center" width="82">
       <img src='https://github.com/OlgaBuLL/OlgaBuLL/assets/108359930/f35b3711-e55c-498c-89ef-0737af312601' alt='Trello' width="50" />
