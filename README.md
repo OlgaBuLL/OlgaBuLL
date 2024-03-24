@@ -91,6 +91,10 @@
       </a>
       <sup>Nuxt</sup>
      </td>
+    <td align="center" width="82" height="82" style="padding: 7px 12px 0px">
+      <img src='https://github.com/OlgaBuLL/OlgaBuLL/assets/108359930/bf85dad1-9b90-498d-a11f-80881e5a2776' alt='Quasar' width="50" />
+      <sup>Quasar</sup>
+     </td>
     <td align="center" width="82">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=react" />
