@@ -66,6 +66,10 @@
       </a>
       <sup>Tailwind</sup>
      </td>
+    <td align="center" width="82" height="82" style="padding: 7px 12px 0px">
+      <img src='https://github.com/user-attachments/assets/2de7e259-75f1-4ca7-b4c5-338cc7df1c4d' alt='Ant Design' width="50" />
+      <sup>AntDesign</sup>
+     </td>
   </tr>
 </table>
 
@@ -118,6 +122,12 @@
         <img src="https://skillicons.dev/icons?i=redux" />
       </a>
       <sup>Redux</sup>
+     </td>
+      <td align="center" width="82">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=supabase" />
+      </a>
+      <sup>Supabase</sup>
      </td>
   </tr>
 </table>
